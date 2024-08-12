@@ -1,0 +1,14 @@
+# Grupo Ubuntu 22.04 Stack Automação
+[ubuntugroup]
+
+SRV15 ansible_host=0.0.0.0 ansible_user=ubuntu ansible_ssh_private_key_file=/home/ubuntu/.ssh/id_rsa
+
+SRV14 ansible_host=0.0.0.0 ansible_user=ubuntu ansible_ssh_private_key_file=/home/ubuntu/.ssh/id_rsa
+
+SRV12 ansible_host=0.0.0.01 ansible_user=ubuntu ansible_ssh_private_key_file=/home/ubuntu/.ssh/id_rsa
+
+SRV4WP ansible_host=0.0.0.0 ansible_user=ubuntu ansible_ssh_private_key_file=/home/ubuntu/.ssh/id_rsa
+
+SRV2N8N ansible_host=0.0.0.0 ansible_user=ubuntu ansible_ssh_private_key_file=/home/ubuntu/.ssh/id_rsa
+
+SRV1Base ansible_host=0.0.0.0 ansible_user=ubuntu ansible_ssh_private_key_file=/home/ubuntu/.ssh/id_rsa
